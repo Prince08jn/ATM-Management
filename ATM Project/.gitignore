@@ -1,0 +1,12 @@
+# Compiled Java files
+*.class
+
+# Mac system files
+.DS_Store
+__MACOSX/
+
+# VS Code settings
+.vscode/
+
+# Optional (if you don't want jar)
+*.jar
